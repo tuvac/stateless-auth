@@ -1,0 +1,13 @@
+target
+.settings/*
+.project
+.classpath
+.springBeans
+
+# osx noise
+.DS_Store
+
+/bin/
+/build/
+
+.gradle
